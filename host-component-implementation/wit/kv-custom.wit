@@ -1,0 +1,6 @@
+package component:custom@0.1.0;
+
+world trigger {
+  import wasi:keyvalue/crud@0.1.0;
+  export doing: func(input: string) -> string;
+}

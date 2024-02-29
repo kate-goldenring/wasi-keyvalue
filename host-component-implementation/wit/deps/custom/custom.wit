@@ -1,0 +1,7 @@
+package something:custom;
+
+interface do-something {
+  doing: func(input: string) -> string;
+}
+
+
